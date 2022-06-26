@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        style="@style/HomeCard">
+
+        <RelativeLayout
+            android:id="@+id/biref_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/tw_feel_brief"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_marginLeft="15dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/realtime_aqi_leaf"
+                android:background="@drawable/ic_bg_circle"/>
+
+            <TextView
+                android:id="@+id/tw_feel_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/tw_feel_brief"
+                android:layout_marginLeft="10dp"
+                android:textStyle="bold"
+                android:text="空气优"
+                android:textColor="@color/white"
+                android:textSize="13sp"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rainfall_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:gravity="right">
+
+            <ImageView
+                android:id="@+id/tw_rainfall_brief"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/icon_water_small"
+                android:background="@drawable/ic_rain_bg_circle"/>
+
+            <TextView
+                android:id="@+id/tw_rainfall_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/tw_rainfall_brief"
+                android:layout_marginLeft="10dp"
+                android:gravity="right"
+                android:text="2小时内无降雨"
+                android:textStyle="bold"
+                android:textColor="@color/white"
+                android:textSize="13sp"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</merge>

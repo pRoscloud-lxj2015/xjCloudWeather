@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">祥云天气</string>
+    <string name="warning_white">White</string>
+    <string name="warning_blue">Blue</string>
+    <string name="warning_green">Green</string>
+    <string name="warning_yellow">Yellow</string>
+    <string name="warning_orange">Orange</string>
+    <string name="warning_red">Red</string>
+    <string name="warning_black">Black</string>
+</resources>

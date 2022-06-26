@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/warning_info_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:id="@+id/warning_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center"
+        android:src="@drawable/icon_1014"
+        android:background="@drawable/shape_blue_alarm"/>
+
+    <TextView
+        android:id="@+id/warning_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="15dp"
+        android:singleLine="true"
+        android:textSize="16sp"
+        android:text="长兴岛区气象台2022年06月10日13时34分发布冰雹橙色预警信号：预计未来1到2小时，长兴岛经济区将出现冰雹天气，同时可能伴有短时大风、强降水等强对流天气，请相关部门按照职责做好防冰雹的应急工作，注意防御冰雹天气伴随的雷电灾害。"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

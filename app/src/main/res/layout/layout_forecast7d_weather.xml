@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:background="@drawable/ic_7d_select_bg"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/td_week"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/weather_day"
+        android:textSize="13sp"
+        tools:text="今天" />
+
+    <TextView
+        android:id="@+id/td_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3dp"
+        android:textColor="@color/weather_carlnd"
+        android:textSize="12sp"
+        tools:text="08/01" />
+
+    <ImageView
+        android:id="@+id/id_Day"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="8dp"
+        tools:src="@drawable/icon_100" />
+
+    <TextView
+        android:id="@+id/td_day_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:textColor="@color/weather_desc"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        tools:text="晴" />
+
+    <com.iclound.xjcloudweather.widgets.TempChartView
+        android:id="@+id/id_tempChart"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center" />
+
+    <ImageView
+        android:id="@+id/id_night"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="15dp"
+        tools:src="@drawable/icon_100" />
+
+    <TextView
+        android:id="@+id/td_night_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/weather_desc"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        tools:text="晴" />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/td_wind_desc"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_marginTop="4dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:src="@drawable/wind_east" />
+
+        <TextView
+            android:id="@+id/td_wind_scale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="2dp"
+            android:textColor="@color/weather_windscale"
+            android:textSize="13sp"
+            tools:text="3级"/>
+    </LinearLayout>
+
+</LinearLayout>

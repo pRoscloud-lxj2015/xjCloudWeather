@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E91E63</color>
+    <color name="colorPrimaryDark">#C2185B</color>
+    <color name="colorAccent">@color/Cyan</color>
+    <color name="textColorPrimary">#616161</color>
+
+    <color name="TRANSTION">#00000000</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#F0F8FCFB</color>
+    <color name="base_white">#FFFFFF</color>
+
+    <color name="Cyan">#00bcd4</color>
+
+    <color name="other_color">#383838</color>
+    <color name="title_color">#343434</color>
+    <color name="delete_bg">#939393</color>
+
+    <color name="qintian_dstart">#ff092264</color>
+    <color name="qintian_dend">#ff3773b1</color>
+    <color name="qintian_nstart">#ff092264</color>
+    <color name="qintian_nend">#ff3773b1</color>
+
+    <color name="yutian_dstart">#ff586882</color>
+    <color name="yutian_dend">#ff788897</color>
+    <color name="yutian_nstart">#ff586882</color>
+    <color name="yutian_nend">#ff788897</color>
+
+    <color name="yintian_dstart">#ff8ea0b8</color>
+    <color name="yintian_dend">#ff8ea0b8</color>
+    <color name="yintian_nstart">#ff444c59</color>
+    <color name="yintian_nend">#ff47505f</color>
+    <color name="duoyun_dstart">#ff303e63</color>
+    <color name="duoyun_dend">#ff47627f</color>
+    <color name="duoyun_nstart">#ff303e63</color>
+    <color name="duoyun_nend">#ff47627f</color>
+    <color name="shacheng_dstart">#ffe6bd6b</color>
+    <color name="shacheng_nstart">#ffe6bd6b</color>
+    <color name="shacheng_dend">#fff98b10</color>
+    <color name="shacheng_nend">#fff98b10</color>
+
+    <!-- 预警严重等级-->
+    <color name="warn_white">#FFFFFF</color>
+    <color name="warn_blue">#00C3F9</color>
+    <color name="warn_green">#00FF00</color>
+    <color name="warn_yellow">#FAD01C</color>
+    <color name="warn_orange">#E47833</color>
+    <color name="warn_red">#CD0000</color>
+    <color name="warn_black">#000000</color>
+
+    <color name="color_f2f2f2">#f2f2f2</color>
+
+    <!--热门城市-->
+    <color name="top_city_bg">#f6f6f6</color>
+    <color name="top_city_text">#323232</color>
+    <color name="topcity_cacle">#237df5</color>
+    <color name="select_topcity">#1d81e3</color>
+    <color name="topcity_color">#8a8fad</color>
+    <color name="topcity_location">#0884ff</color>
+
+    <!-- 添加城市-->
+    <color name="add_city">#8d92b0</color>
+    <color name="search_city_line">#e3e3e3</color>
+    <color name="search_city_day">#373737</color>
+    <color name="search_city_temp">#3a3a3a</color>
+    <color name="search_city_icon_bg">#4a4a4a</color>
+
+    <!-- 折线图颜色-->
+    <color name="chart_color">#383838</color>
+    <color name="weather_day">#333333</color>
+    <color name="weather_carlnd">#9c99ae</color>
+    <color name="weather_desc">#3e3e3e</color>
+    <color name="weather_temp">#020202</color>
+    <color name="weather_line">#e2e2e2</color>
+    <color name="weather_circle">#c1c1c1</color>
+    <color name="weather_windscale">#787878</color>
+
+    <!-- 趋势预报 -->
+    <color name="windscale_img_bg">#7f7f7f</color>
+
+</resources>

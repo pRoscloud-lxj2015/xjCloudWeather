@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="top_city">
+        <item>定位</item>
+        <item>北京市</item>
+        <item>上海市</item>
+        <item>广州市</item>
+        <item>深圳市</item>
+        <item>珠海市</item>
+        <item>佛山市</item>
+        <item>南京市</item>
+        <item>苏州市</item>
+        <item>厦门市</item>
+        <item>南宁市</item>
+        <item>昆明市</item>
+        <item>成都市</item>
+        <item>长沙市</item>
+        <item>福州市</item>
+        <item>杭州市</item>
+        <item>武汉市</item>
+        <item>青岛市</item>
+        <item>西安市</item>
+        <item>太原市</item>
+        <item>石家庄市</item>
+        <item>沈阳市</item>
+        <item>重庆市</item>
+        <item>天津市</item>
+    </string-array>
+
+    <string-array name="top_city_id">
+        <item>定位</item>
+        <item>101010100</item>
+        <item>101020100</item>
+        <item>101280101</item>
+        <item>101280601</item>
+        <item>101280701</item>
+        <item>101280800</item>
+        <item>101190101</item>
+        <item>101190401</item>
+        <item>101230201</item>
+        <item>101300101</item>
+        <item>101290101</item>
+        <item>101270101</item>
+        <item>101250101</item>
+        <item>101230101</item>
+        <item>101210101</item>
+        <item>101200101</item>
+        <item>101120201</item>
+        <item>101110101</item>
+        <item>101100101</item>
+        <item>101090101</item>
+        <item>101070101</item>
+        <item>101040100</item>
+        <item>101030100</item>
+    </string-array>
+</resources>

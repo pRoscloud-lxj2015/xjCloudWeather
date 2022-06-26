@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.iclound.xjcloudweather.widgets.CloudSwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/weather_swipe_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.fragment.WeatherFragment">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never">
+
+        <LinearLayout
+            android:id="@+id/iw_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:id="@+id/tw_today_temp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="126dp"
+                    android:textColor="@color/white"
+                    android:textSize="96sp"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    tools:text="26" />
+
+                <TextView
+                    android:id="@+id/tw_Unit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="7dp"
+                    android:layout_marginTop="28dp"
+                    android:text="°C"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    android:visibility="visible"
+                    app:layout_constraintLeft_toRightOf="@+id/tw_today_temp"
+                    app:layout_constraintTop_toTopOf="@+id/tw_today_temp" />
+
+                <TextView
+                    android:id="@+id/tv_today_cond"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="7dp"
+                    android:textColor="@color/white"
+                    android:textSize="18sp"
+                    app:layout_constraintBaseline_toBaselineOf="@+id/tw_today_temp"
+                    app:layout_constraintLeft_toRightOf="@+id/tw_today_temp"
+                    tools:text="多云" />
+
+                <TextView
+                    android:id="@+id/iw_today_wind"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:background="@drawable/air_condition_bg"
+                    tools:text="风力"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintLeft_toLeftOf="parent" />
+
+                <TextView
+                    android:id="@+id/iw_today_humidity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="3dp"
+                    android:gravity="center"
+                    android:text="湿度"
+                    android:textColor="@color/white"
+                    android:textSize="14sp"
+                    android:background="@drawable/air_condition_bg"
+                    app:layout_constraintTop_toBottomOf="@+id/iw_today_wind"
+                    app:layout_constraintLeft_toLeftOf="parent" />
+
+                <TextView
+                    android:id="@+id/tw_Date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginRight="10dp"
+                    android:textColor="@color/white"
+                    android:textSize="15sp"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    tools:text="公元2021年" />
+
+                <ViewFlipper
+                    android:id="@+id/tw_alarmFlipper"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:gravity="center"
+                    android:visibility="visible"
+                    app:layout_constraintLeft_toLeftOf="parent"
+                    app:layout_constraintRight_toRightOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/tw_today_temp"
+                    android:background="@drawable/warning_condition_bg"
+                    tools:text="暴雨预警"
+                    tools:visibility="gone" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <include  layout="@layout/layout_today_brief_info"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/tw_forecast3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:overScrollMode="never"
+                android:scrollbars="none"
+                style="@style/Theme.XjCloudWeather.NoActionBar"
+                tools:itemCount="3"
+                tools:layoutManager="androidx.recyclerview.widget.RecyclerView"
+                tools:listitem="@layout/layout_forecast3d_weather"/>
+
+            <Button
+                android:id="@+id/btn_15day"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/white"
+                android:backgroundTint="@null"
+                android:background="@drawable/btn_sev_select"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:text="查看近7日天气"
+                android:textSize="18sp" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/tw_forecasthourly"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:overScrollMode="never"
+                android:scrollbars="none"
+                style="@style/Theme.XjCloudWeather.NoActionBar"
+                tools:itemCount="6"
+                tools:layoutManager="androidx.recyclerview.widget.RecyclerView"
+                tools:listitem="@layout/item_forecast15"/>
+
+            <include  layout="@layout/app_source_layout"/>
+        </LinearLayout>
+
+    </androidx.core.widget.NestedScrollView>
+
+</com.iclound.xjcloudweather.widgets.CloudSwipeRefreshLayout>

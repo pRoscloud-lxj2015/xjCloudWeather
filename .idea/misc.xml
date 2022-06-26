@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable-v24/ic_launcher_fore.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable-xhdpi/vector_drawable_100_fill.xml" value="0.304" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/air_condition_bg.xml" value="0.218" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/background.xml" value="0.321" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_citymanager.xml" value="0.193" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_duoyun_d.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_duoyun_n.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_permissionsbt_corner.xml" value="0.12" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_qintian_d.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_qintian_n.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_shacheng.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_shacheng_d.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_shacheng_n.xml" value="0.2635" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_white_corner.xml" value="0.152" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_yintian_d.xml" value="0.1615" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_yintian_n.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_yutian_d.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/bg_yutian_n.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/btn_sev_select.xml" value="0.197" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_110.xml" value="0.176" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_7d_select_bg.xml" value="0.197" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_air_condition.xml" value="0.267" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_bg_brief.xml" value="0.267" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_bg_brief_select.xml" value="0.3045" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_bg_circle.xml" value="0.267" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_dsa_foreground.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.304" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_launcher_fore.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_launcher_foregrou.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_launcher_foregroun.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_launcher_s_foreground.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_rain_bg_circle.xml" value="0.21" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/ic_taiyang.xml" value="0.304" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_100.xml" value="0.267" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_1003.xml" value="0.1865" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_101.xml" value="0.267" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_1014.xml" value="0.3365" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_1015.xml" value="0.1865" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_101_fill.xml" value="0.267" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_1020.xml" value="0.3365" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_103.xml" value="0.1935" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_103_fill.xml" value="0.295" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_104.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_150.xml" value="0.1935" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_150_fill.xml" value="0.1935" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_151.xml" value="0.295" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_151_fill.xml" value="0.2225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_153.xml" value="0.295" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_153_fill.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_300.xml" value="0.171" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_300_fill.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_301.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_301_fill.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_302.xml" value="0.215" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_302_fill.xml" value="0.215" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_310_fill.xml" value="0.2145" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_500.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_900.xml" value="0.215" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_900_fill.xml" value="0.215" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_add_city.xml" value="0.429" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_add_city_back.xml" value="0.199" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_add_fill.xml" value="0.3045" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_back.xml" value="0.195" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_delete.xml" value="0.184" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_load_img.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_location.xml" value="0.313" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_location_cur.xml" value="0.488" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_location_index.xml" value="0.1725" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_search.xml" value="0.1725" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_search_add_city.xml" value="0.2" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_search_add_city_no.xml" value="0.307" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_search_add_front.xml" value="0.2145" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_top_location.xml" value="0.486" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_water_large.xml" value="0.1725" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/icon_water_small.xml" value="0.1725" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/location_back.xml" value="0.214" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_black_alarm.xml" value="0.326" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_blue_alarm.xml" value="0.176" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_delete_alarm.xml" value="0.321" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_green_alarm.xml" value="0.326" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_orange_alarm.xml" value="0.326" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_red_alarm.xml" value="0.326" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_search.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_white_alarm.xml" value="0.326" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/shape_yellow_alarm.xml" value="0.326" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/slide_duoyun_bg.xml" value="0.3215" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/slide_qintian_bg.xml" value="0.1225" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/slide_多云_bg.xml" value="0.3215" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/textcursor_color.xml" value="0.2505" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/top_city_bg.xml" value="0.1715" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/vector_drawable_100_fill.xml" value="0.304" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/drawable/warning_condition_bg.xml" value="0.1765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/acitivity_topcity.xml" value="0.1963765097875885" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_addcity.xml" value="0.4" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_ceshi.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_halfweather.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_searchcity.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_splash.xml" value="0.29936594202898553" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_title_base.xml" value="0.3014505893019039" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_universal_recycler.xml" value="0.28785131459655483" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/activity_warning_desc.xml" value="0.1963765097875885" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/app_source_layout.xml" value="0.4" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/ceshi.xml" value="0.3067708333333333" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/dialog_permissions.xml" value="0.3625" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/fragment_weather_layout.xml" value="0.4" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/ic_bg_circle.xml" value="0.49114583333333334" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_city_manager.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_draggable_view.xml" value="0.2689183411714408" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_forecast15.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_search_forecast5.xml" value="0.41727233860624197" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_searchcity.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_top_city.xml" value="0.4" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_topcity.xml" value="0.536" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/item_warning_desc.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/layout_forecast3d_weather.xml" value="0.2" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/layout_forecast7d_weather.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/layout_forecast_hourly.xml" value="0.29936594202898553" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/layout_today_brief_info.xml" value="0.2" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/layout_top_location.xml" value="0.6" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/test_http.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/test_launcher_layout.xml" value="0.23514322359982898" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/test_layout.xml" value="0.4031637451902522" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/toolbar.xml" value="0.24848637739656912" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/layout/warning_infor_layout.xml" value="0.264" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/mipmap-anydpi-v26/ic_dsa.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2765" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1845" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_s.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_s_round.xml" value="0.2775" />
+        <entry key="..\:/ThirdPartyAndLanguageLearn/Books(PDF)/kotlin/xjcloudWeather/mvvmtest/src/main/res/layout/activity_main.xml" value="0.2631712259371834" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

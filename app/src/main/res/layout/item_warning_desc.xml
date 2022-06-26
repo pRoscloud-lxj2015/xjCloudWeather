@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:baselineAligned="true"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/warning_desc_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="15dp"
+            android:background="@drawable/shape_blue_alarm"
+            android:src="@drawable/icon_1014" />
+
+        <TextView
+            android:id="@+id/warning_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:singleLine="true"
+            android:text="暴雨蓝色预警"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/warning_desc_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:layout_gravity="right|center"
+            android:gravity="right"
+            android:singleLine="true"
+            android:text="1小时前更新"
+            android:textColor="@color/weather_windscale"
+            android:textSize="13sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/warning_desc_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:ellipsize="end"
+        android:lineSpacingExtra="3dp"
+        android:text="门头沟区气象台20日14时56分发布暴雨蓝色预警,预计，当前至20时，门头沟区深山区斋堂镇、雁翅镇一带将出现小时雨强30至50毫米的强降水。请注意防范。"
+        android:textColor="@color/weather_windscale"
+        android:textSize="14sp" />
+
+</LinearLayout>
