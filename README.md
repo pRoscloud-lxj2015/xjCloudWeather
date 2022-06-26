@@ -7,6 +7,8 @@ xjCloudWeather是一款天气应用，使用kotlin的MVP框架模式开发的。
 
 2.Eventbus:https://github.com/greenrobot/EventBus
 
+3.万能适配器：BaseRecyclerViewAdapterHelper
+
 3.MMKV:https://github.com/Tencent/MMKV
 
 4.XXPermissions:https://github.com/getActivity/XXPermissions
