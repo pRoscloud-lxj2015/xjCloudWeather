@@ -1,6 +1,7 @@
 # xjCloudWeather
-xjCloudWeather是一款天气应用，使用kotlin的MVP框架模式开发的。
-熟悉了AndroidX相关库
+xjCloudWeather是一款轻量级天气应用，
+使用kotlin的MVP框架模式开发的。熟悉了AndroidX相关库
+修改了swiperefreshlayout源码，实现自定义刷新样式
 
 使用的第三方库：
 1.Retrofit+RxJava3+:
